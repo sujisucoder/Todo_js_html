@@ -55,5 +55,5 @@ main();
 
 function logout(event) {
     event.preventDefault();
-    window.location.href = '../views/login.html'; // Redirect to home page
+    window.location.href = '../index.html'; // Redirect to home page
 }
